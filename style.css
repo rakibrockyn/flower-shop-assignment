@@ -117,17 +117,17 @@
 .hotdeal-about {
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    text-align: center;
-    padding: 80px;
+    padding-bottom: 100px;
     background-color: #f88fa61c;
+}
+.hotdeal-text{
+    text-align: center;
 }
 .deal-title-color{
     color: red;
 }
 
 .hotdeal-descripation {
-    text-align: center;
     font-size: 12px;
     padding: 20px 0px 20px;
 }
