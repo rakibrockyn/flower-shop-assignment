@@ -1,0 +1,143 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    font-family: lato;
+}
+
+.banner-container {
+    background-color: #E554731A;
+    display: flex;
+    align-items: center;
+    padding: 0px 100px;
+}
+
+.banner-about {
+    text-align: left;
+    padding-left: 100px;
+}
+
+.banner-title {
+    font-size: 55px;
+}
+
+.banner-description {
+    font: 18px;
+    padding: 20px 0px;
+}
+
+.btn {
+    padding: 15px 30px;
+    background-color: #E55473;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
+.banner-photo {
+    width: 500px;
+}
+
+.hotdeal-about{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 50px;
+    background-color: #f88fa61c;
+}
+
+.hotdeal-descripation{
+    font-size: 12px;
+    padding: 20px 0px 20px;
+}
+
+
+main {
+    max-width: 1140px;
+    margin: 0px auto;
+    background-color: #ffffff;
+}
+
+.ig-section {
+    text-align: center;
+}
+
+.ig-title {
+    padding-top: 60px;
+    font-size: 30px;
+}
+
+.ig-description {
+    padding-top: 20px;
+    font-size: 12px;
+}
+
+.ig-img {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 0px 100px 0px;
+}
+
+.last-section {
+    height: 70vh;
+    background-image: url('Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+}
+
+input {
+    width: 550px;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    background: #FFF;
+}
+
+.btn-sub {
+    width: 130px;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    margin: 20px;
+    color: #ffffff;
+    background-color: #E55473;
+
+}
+
+.formbox {
+    padding-top: 50px;
+    padding-left: 220px;
+    align-items: center;
+    display: flex;
+}
+
+h1 {
+    padding-top: 150px;
+}
+
+.footer-section {
+    text-align: center;
+    background-color: black;
+    padding: 100px;
+}
+
+.red {
+    color: #E55473;
+}
+
+h2 {
+    padding-top: 10px;
+    color: #ffffff;
+}
+
+.footer-description {
+    font-size: 12px;
+    padding: 20px;
+    color: #ffffff;
+}
+
+.copyright {
+    font-size: 10px;
+    color: #ffffffa1;
+}
