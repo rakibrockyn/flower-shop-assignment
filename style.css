@@ -122,6 +122,9 @@
     padding: 80px;
     background-color: #f88fa61c;
 }
+.deal-title-color{
+    color: red;
+}
 
 .hotdeal-descripation {
     text-align: center;
