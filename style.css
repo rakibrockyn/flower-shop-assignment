@@ -31,6 +31,12 @@
     color: white;
     border: none;
     border-radius: 10px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: rgba(158, 255, 62, 0.644);
+    color: black;
 }
 
 .banner-photo {
@@ -85,12 +91,13 @@
     padding-top: 50px;
 }
 
-.comapny-service-info{
+.comapny-service-info {
     align-items: center;
     text-align: center;
     padding-bottom: 100px;
 }
-.info{
+
+.info {
     text-align: center;
     display: flex;
     align-items: center;
@@ -99,24 +106,21 @@
     justify-content: space-around;
     padding: 100px;
     margin-left: 220px;
-    background-color:#2727270D;
+    background-color: #2727270D;
 }
 
 
 
-
-
-
-.hotdeal-about{
+.hotdeal-about {
     display: flex;
-    justify-content:space-around;
+    justify-content: space-around;
     align-items: center;
     text-align: center;
     padding: 80px;
     background-color: #f88fa61c;
 }
 
-.hotdeal-descripation{
+.hotdeal-descripation {
     text-align: center;
     font-size: 12px;
     padding: 20px 0px 20px;
@@ -174,7 +178,11 @@ input {
     margin: 20px;
     color: #ffffff;
     background-color: #E55473;
+}
 
+.btn-sub:hover {
+    background-color: rgba(158, 255, 62, 0.644);
+    color: black;
 }
 
 .formbox {
