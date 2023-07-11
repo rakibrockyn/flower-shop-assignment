@@ -91,9 +91,10 @@
     padding-top: 50px;
 }
 
-.flower-name{
+.flower-name {
     padding: 20px;
 }
+
 .comapny-service-info {
     align-items: center;
     text-align: center;
@@ -115,16 +116,24 @@
 
 
 .hotdeal-about {
+    align-items: center;
+    text-align: center;
     display: flex;
     justify-content: space-around;
     padding-bottom: 100px;
     background-color: #f88fa61c;
 }
-.hotdeal-text{
+
+.hotdeal-text {
     text-align: center;
 }
-.deal-title-color{
+
+.deal-title-color {
     color: red;
+}
+
+.hotdeal-img {
+    padding-top: 60px;
 }
 
 .hotdeal-descripation {
